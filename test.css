@@ -1,0 +1,15 @@
+* {
+    border: thin solid;
+    text-decoration: underline;
+    
+}
+h1 {
+    text-align: center;
+    border: thin solid;
+}
+div {
+    background-color: aqua;
+}
+#timeline {
+    padding-left: 400px;
+}
